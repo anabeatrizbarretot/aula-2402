@@ -21,9 +21,8 @@ header img {
 p {
     text-align: justify;
     margin-bottom: 20px;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 1.6;
-    background-color: #ec84ba;
 }
 
 .conteudo {
@@ -33,7 +32,7 @@ p {
 .imagens-laterais {
     float: right;
     width: 250px;
-    margin-left: 20px;
+    margin-left: 25px;
 }
 
 .imagem {
